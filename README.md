@@ -1,110 +1,135 @@
-# Hi 👋 I'm Simardeep Singh
+# 👋 Hi, I'm Simardeep Singh
 
 🚀 **Senior React Native Developer | Web3 Mobile Engineer**
 
-I am a **React Native developer with 6+ years of experience** building high-performance mobile applications.
-I specialize in **crypto wallets, blockchain integrations, and scalable cross-platform apps**.
+I’m a **React Native developer with 6+ years of experience** building high-performance mobile applications.
+My work focuses on **crypto wallets, blockchain integrations, and scalable cross-platform mobile apps**.
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
-* 📱 6+ years building **React Native mobile apps**
-* 🔗 Experience with **Web3 wallets & blockchain integrations**
-* ⚡ Built apps with **chat-based crypto transactions & cross-chain swaps**
-* 🧠 Strong experience integrating **native Android & iOS modules**
+* 📱 6+ years of experience building **React Native mobile applications**
+* 🔗 Specialized in **Web3 wallets and blockchain integrations**
+* ⚡ Experience implementing **cross-chain swaps and crypto transactions**
+* 🧠 Strong background in **Native Android & iOS module integration**
 * 🤖 AI-assisted development using **Cursor AI & Antigravity**
 
 ---
 
-## 🚀 Apps I Built
+# 🚀 Production Mobile Apps
 
-### 🔐 Crypto Wallet
+## 🔐 Ancrypto Wallet
 
-Android:
-https://play.google.com/store/apps/details?id=com.ancryptoWallet
+Multi-chain crypto wallet built with **React Native, Web3, and Wallet SDKs**.
 
-Features:
+**Key Features**
 
-* Multi-chain wallet
+* Multi-chain wallet support
 * Secure transaction signing
-* Web3Auth login
+* Web3Auth authentication
 * Cross-chain swap through chat
 
----
-
-### 📊 Triskel App
-
-Android:
-https://play.google.com/store/apps/details?id=com.triskel
+🔗 https://play.google.com/store/apps/details?id=com.ancryptoWallet
 
 ---
 
-## 🛠 Tech Stack
+## 📊 Triskel
 
-### Mobile
+Blockchain-powered mobile application built with **React Native**.
+
+Focused on:
+
+* Secure blockchain transactions
+* Performance optimized mobile architecture
+* Blockchain based workflows
+
+🔗 https://play.google.com/store/apps/details?id=com.triskel
+
+---
+
+## 📈 TradeStrike
+
+Trading and fintech mobile application built using **React Native and REST APIs**.
+
+Focused on:
+
+* Scalable mobile UI
+* Financial trading features
+* Real-time API integrations
+
+🔗 https://play.google.com/store/apps/details?id=com.tradestrike
+
+---
+
+## 💰 Aureus Wallet
+
+Digital asset wallet developed with **React Native and Web3 integrations**.
+
+Features include:
+
+* Wallet infrastructure
+* Blockchain connectivity
+* Cross-chain functionality
+
+🔗 https://play.google.com/store/apps/details?id=com.aureuswallet
+
+---
+
+## 🔗 Shido Wallet
+
+Web3 wallet application for **DeFi and token management** built using React Native.
+
+Features include:
+
+* DeFi wallet flows
+* Blockchain transaction management
+* Token portfolio features
+
+🔗 https://play.google.com/store/apps/details?id=com.shido.wallet
+
+---
+
+# 🛠 Tech Stack
+
+### 📱 Mobile Development
 
 * React Native
 * JavaScript
 * TypeScript
-* Native Android / iOS integration
+* Native Android Modules
+* Native iOS Modules
 
-### Backend
+### ⚙ Backend & APIs
 
 * Node.js
 * REST APIs
 * Firebase
 
-### Web3
+### 🔗 Web3 & Blockchain
 
-* Crypto wallets
-* Web3Auth
-* Blockchain transactions
-* Multi-chain integrations
-
-
-## Featured Mobile Apps
-
-### Ancrypto Wallet
-Multi-chain crypto wallet built with **React Native, Web3, and Wallet SDKs**.  
-Focused on secure key management, blockchain interactions, and a smooth mobile wallet experience.  
-[View on Play Store](https://play.google.com/store/apps/details?id=com.ancryptoWallet)
-
-### Triskel
-Blockchain-powered mobile application built with **React Native** for secure transaction-based workflows.  
-Worked on performance, mobile architecture, and blockchain-driven user flows.  
-[View on Play Store](https://play.google.com/store/apps/details?id=com.triskel)
-
-### TradeStrike
-Trading and fintech mobile application built with **React Native and REST APIs**.  
-Focused on scalable mobile UI, API integration, and real-time finance-oriented user experience.  
-[View on Play Store](https://play.google.com/store/apps/details?id=com.tradestrike)
-
-### Aureus Wallet
-Digital asset wallet developed with **React Native and Web3 integrations**.  
-Included wallet functionality, blockchain connectivity, and cross-chain capabilities.  
-[View on Play Store](https://play.google.com/store/apps/details?id=com.aureuswallet)
-
-### Shido Wallet
-Web3 wallet application for **DeFi and token management** built in **React Native**.  
-Worked on wallet flows, blockchain transactions, and decentralized finance use cases.  
-[View on Play Store](https://play.google.com/store/apps/details?id=com.shido.wallet)
+* Crypto Wallet Development
+* Web3Auth Integration
+* Blockchain Transactions
+* Multi-Chain Integrations
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simardeepgithub-1997\&show_icons=true\&theme=tokyonight)
 
 ---
 
-## 🔗 Connect With Me
+# 📬 Connect With Me
 
-📧 Email: [simardeep1to9@gmail.com](mailto:simardeep1to9@gmail.com)
-📱 Phone: +91 8837718140
+📧 **Email:** [simardeep1to9@gmail.com](mailto:simardeep1to9@gmail.com)
+📱 **Phone:** +91 8837718140
 
 ---
 
-⭐ If you like my work, feel free to connect or collaborate!
+⭐ **If you like my work, feel free to connect or collaborate!**
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
