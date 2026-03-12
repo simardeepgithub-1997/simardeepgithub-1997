@@ -78,3 +78,5 @@ https://play.google.com/store/apps/details?id=com.triskel
 ---
 
 ⭐ If you like my work, feel free to connect or collaborate!
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
