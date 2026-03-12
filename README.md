@@ -62,6 +62,34 @@ https://play.google.com/store/apps/details?id=com.triskel
 * Blockchain transactions
 * Multi-chain integrations
 
+
+## Featured Mobile Apps
+
+### Ancrypto Wallet
+Multi-chain crypto wallet built with **React Native, Web3, and Wallet SDKs**.  
+Focused on secure key management, blockchain interactions, and a smooth mobile wallet experience.  
+[View on Play Store](https://play.google.com/store/apps/details?id=com.ancryptoWallet)
+
+### Triskel
+Blockchain-powered mobile application built with **React Native** for secure transaction-based workflows.  
+Worked on performance, mobile architecture, and blockchain-driven user flows.  
+[View on Play Store](https://play.google.com/store/apps/details?id=com.triskel)
+
+### TradeStrike
+Trading and fintech mobile application built with **React Native and REST APIs**.  
+Focused on scalable mobile UI, API integration, and real-time finance-oriented user experience.  
+[View on Play Store](https://play.google.com/store/apps/details?id=com.tradestrike)
+
+### Aureus Wallet
+Digital asset wallet developed with **React Native and Web3 integrations**.  
+Included wallet functionality, blockchain connectivity, and cross-chain capabilities.  
+[View on Play Store](https://play.google.com/store/apps/details?id=com.aureuswallet)
+
+### Shido Wallet
+Web3 wallet application for **DeFi and token management** built in **React Native**.  
+Worked on wallet flows, blockchain transactions, and decentralized finance use cases.  
+[View on Play Store](https://play.google.com/store/apps/details?id=com.shido.wallet)
+
 ---
 
 ## 📈 GitHub Stats
